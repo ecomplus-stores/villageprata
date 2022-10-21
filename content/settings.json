@@ -1,5 +1,6 @@
 {
   "domain": "www.villageprata.com.br",
+  "repository": "ecomplus-stores/villageprata",
   "currency_symbol": "R$",
   "primary_color": "#96bdc9",
   "theme": {
