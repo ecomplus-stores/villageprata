@@ -1,7 +1,7 @@
 {
   "domain": "www.villageprata.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#fbdddc",
+  "primary_color": "#96bdc9",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -17,7 +17,7 @@
   "favicon": "/img/uploads/whatsapp-image-2022-10-21-at-09.59.39.jpeg",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#96bdc9",
+  "secondary_color": "#fbdddc",
   "icon": "/img/uploads/whatsapp-image-2022-10-21-at-10.02.07.jpeg",
   "store_id": 13015,
   "description": "Village Prata\n\nJoias em Prata 925",
