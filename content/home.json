@@ -3,26 +3,22 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/headphone.webp"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
-          "mobile_img": "/img/uploads/passion.webp"
-        }
-      ]
+      "type": "offers-timer",
+      "max_hours": 5,
+      "start": "2022-10-21T16:50:14.295Z",
+      "end": "2022-10-22T16:50:14.348Z",
+      "offers": [
+        "620c41117963422eee059119",
+        "61d207bc0c7c727225edaf79"
+      ],
+      "notes": "SUPER PROMOÇÃO!"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "634c697873321213f8adf932:categories:Linha Boho:/linha-boho"
     },
     {
       "type": "info-bar",
