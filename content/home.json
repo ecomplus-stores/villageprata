@@ -7,7 +7,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "634c697873321213f8adf932:categories:Linha Boho:/linha-boho"
+      "collection_id": "6203fb717963422eeef63257:categories:Melhores Oportunidades:/melhores-oportunides"
     },
     {
       "type": "info-bar",
@@ -25,8 +25,12 @@
     },
     {
       "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
+      "title": "Village Prata",
+      "description": "Joias em Prata 925"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true
     }
   ]
 }
