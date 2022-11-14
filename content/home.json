@@ -3,6 +3,11 @@
   "meta_description": "Joias em Prata em 925",
   "sections": [
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/whatsapp-image-2022-11-14-at-18.39.36.jpeg",
+      "link": "https://www.villageprata.com.br/village-black"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
