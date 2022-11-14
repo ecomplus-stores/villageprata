@@ -5,7 +5,8 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/whatsapp-image-2022-11-14-at-18.39.36.jpeg",
-      "link": "https://www.villageprata.com.br/village-black"
+      "link": "https://www.villageprata.com.br/village-black",
+      "mobile_img": "/img/uploads/whatsapp-image-2022-11-14-at-18.39.36.jpeg"
     },
     {
       "type": "collection-shelf",
