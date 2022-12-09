@@ -3,6 +3,12 @@
   "meta_description": "Joias em Prata em 925",
   "sections": [
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/capa-para-canal-de-youtube-feminino-e-delicado-em-tons-de-bege.pn1g.png",
+      "link": "https://www.villageprata.com.br/colecao-festa",
+      "mobile_img": "/img/uploads/capa-para-canal-de-youtube-feminino-e-delicado-em-tons-de-bege.pn1g.png"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
