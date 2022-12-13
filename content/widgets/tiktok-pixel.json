@@ -4,7 +4,7 @@
   "desktopOnly": false,
   "enableCheckout": true,
   "options": {
-    "tiktokPixelId": "",
+    "tiktokPixelId": "792649948796101",
     "debug": false
   },
   "headAppend": "src/append/head"
