@@ -3,6 +3,15 @@
   "meta_description": "Joias em Prata em 925",
   "sections": [
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/post-para-instagram-boas-festas-corporativo.jpg",
+          "mobile_img": "/img/uploads/post-para-instagram-boas-festas-corporativo.jpg"
+        }
+      ]
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/capa-para-canal-de-youtube-feminino-e-delicado-em-tons-de-bege.pn1g.png",
       "link": "https://www.villageprata.com.br/colecao-festa",
