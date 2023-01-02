@@ -4,12 +4,7 @@
   "sections": [
     {
       "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/post-para-instagram-boas-festas-corporativo.jpg",
-          "mobile_img": "/img/uploads/post-para-instagram-boas-festas-corporativo.jpg"
-        }
-      ]
+      "banners": []
     },
     {
       "type": "responsive-banner",
