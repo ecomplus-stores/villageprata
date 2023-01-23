@@ -17,13 +17,6 @@
       "link": "https://www.villageprata.com.br/colecao-festa"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "616b2fd8a545a54dfb5c7c2f:brands:Village Prata:/village-prata"
-    },
-    {
       "type": "info-bar",
       "enabled": true
     },
