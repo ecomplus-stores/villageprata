@@ -4,13 +4,12 @@
   "sections": [
     {
       "type": "banners-grid",
-      "banners": []
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/capa-para-canal-de-youtube-feminino-e-delicado-em-tons-de-bege.pn1g.png",
-      "link": "https://www.villageprata.com.br/colecao-festa",
-      "mobile_img": "/img/uploads/capa-para-canal-de-youtube-feminino-e-delicado-em-tons-de-bege.pn1g.png"
+      "banners": [
+        {
+          "img": "/img/uploads/whatsapp-image-2023-01-23-at-12.18.33.jpeg",
+          "mobile_img": "/img/uploads/whatsapp-image-2023-01-23-at-12.18.33.jpeg"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
