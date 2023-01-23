@@ -8,20 +8,11 @@
       "mobile_img": "/img/uploads/whatsapp-image-2023-01-23-at-12.18.33.jpeg"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/whatsapp-image-2023-01-23-at-12.18.33.jpeg",
-          "mobile_img": "/img/uploads/whatsapp-image-2023-01-23-at-12.18.33.jpeg"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "639355c073321213f80c8797:categories:Coleção Festa:/colecao-festa",
+      "collection_id": "616b2fd8a545a54dfb5c7c2f:brands:Village Prata:/village-prata",
       "sort": "views",
       "link": "https://www.villageprata.com.br/colecao-festa"
     },
