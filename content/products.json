@@ -1,6 +1,14 @@
 {
   "sections": [
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "6202f7897963422eeef40f8b:categories:Inspiração Pandora:/inspiracao-pandora",
+      "link": "https://www.villageprata.com.br/inspiracao-pandora"
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
