@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.e90c9b6350a011bc3bbb4e0b1b740f68.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.504bfaf79e4222b2a1501d4b3c2838be.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.e1c226d7c6387a17ea2f092a2977ccb1.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.7a77d1eb2c5dea5cb3da2c96e6559e3b.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.be6b2c6e19676ab0f8b6a1e714721704.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Village Prata",
+  "short_name": "Village Prata",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Village Prata\n\nJoias em Prata 925",
+  "background_color": "#fbdddc",
+  "theme_color": "#96bdc9"
+}
