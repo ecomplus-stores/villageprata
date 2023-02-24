@@ -12,7 +12,10 @@
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "collection_id": "63f938f2f4167e223c9c1e5d:categories:Ressaca de Carnaval:/ressaca-de-carnaval",
+      "sort": "lowest_price",
+      "title": "https://www.villageprata.com.br/ressaca-de-carnaval"
     },
     {
       "type": "responsive-banner",
